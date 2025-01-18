@@ -4,3 +4,17 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ![Image of ice cream](https://purepng.com/photo/155/food-ice-cream-png)
+
+
+```
+$git status
+$git checkout feature
+$git switch feature
+```
+
+
+```javascript
+var myVar = "Hello, world!";
+```
+
+```my first script in Markdown language```
